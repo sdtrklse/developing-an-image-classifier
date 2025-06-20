@@ -1,0 +1,7 @@
+jupyterlab==4.3.5
+keras==3.9.0
+matplotlib==3.10.1
+numpy==2.1.2
+pillow==11.0.0
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
